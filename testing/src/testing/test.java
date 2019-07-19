@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 System.out.println("hellooooo!!!!!!!");
 System.out.println("testig for maven ");
+System.out.println("testing new branch");
 	}
 
 }
